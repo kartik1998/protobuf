@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kartik1998/protobuf/issues"
   },
-  "homepage": "https://github.com/kartik1998/protobuf#readme"
+  "homepage": "https://github.com/kartik1998/protobuf#readme",
+  "dependencies": {
+    "google-protobuf": "^3.17.3"
+  }
 }
